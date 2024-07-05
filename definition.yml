@@ -1,0 +1,9 @@
+name: Legends-Of-The-Orient-AI
+display-name: Legenden des Orients KIs
+author: Crusader Pilaw
+version: 3.0.0
+dependencies:
+  framework: ">=3.0.1"
+  frontend: ">=1.0.2"
+  aiSwapper: ^1.1.0
+type: plugin

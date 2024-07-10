@@ -13,7 +13,7 @@
     "aiv": true,
     "lord": true,
     "startTroops": true,
-    "lines": false,
+    "lines": true,
     "portrait": false
   }
 }

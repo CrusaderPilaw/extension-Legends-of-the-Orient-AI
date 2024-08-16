@@ -144,7 +144,7 @@
     "HarassingSiegeEngine7": "None",
     "HarassingSiegeEngine8": "None",
     "HarassingSiegeEnginesMax": 2,
-    "RaidRetargetDelay": 1,
+    "RaidRetargetDelay": 2,
     "AttForceBase": 36,
     "AttForceRandom": 0,
     "AttForceSupportAllyThreshold": 5,
@@ -186,7 +186,7 @@
     "AttUnitMain2": "Spearman",
     "AttUnitMain3": "Spearman",
     "AttUnitMain4": "Spearman",
-    "AttMaxDefault": 200,
+    "AttMaxDefault": 70,
     "AttMainGroupsCount": 2,
     "TargetChoice": "Balanced"
   }

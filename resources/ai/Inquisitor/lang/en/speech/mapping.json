@@ -31,6 +31,6 @@
   "sent"         : "inquisitor_sent_01.wav",
   "team_losing"  : "inquisitor_team_losing_01.wav",
   "team_winning" : "inquisitor_team_winning_01.wav",
-  "help_sent"    : "inquisitor_help_01.wav",
+  "help_sent"    : "inquisitor_helpsent_01.wav",
   "will_attack"  : "inquisitor_willattack_01.wav"
 }

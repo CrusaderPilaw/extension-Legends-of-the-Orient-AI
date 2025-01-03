@@ -2,7 +2,7 @@
   "message_from" : "hyaene_general_Message.wav",
   "taunt_1"      : "hyaene_taunt_01.wav",
   "taunt_2"      : "hyaene_taunt_02.wav",
-  "taunt_3"      : "hyaene_taunt_03.wav",
+  "taunt_3"      : "hyaene_boast_01.wav",
   "taunt_4"      : "hyaene_taunt_04.wav",
   "anger_1"      : "hyaene_anger_01.wav",
   "anger_2"      : "hyaene_anger_02.wav",
@@ -17,7 +17,7 @@
   "thanks"       : "hyaene_thanks_01.wav",
   "ally_death"   : "hyaene_ally_death_01.wav",
   "congrats"     : "hyaene_congrats_01.wav",
-  "boast"        : "hyaene_boast_01.wav",
+  "boast"        : "hyaene_siege_01wav",
   "help"         : "hyaene_help_01.wav",
   "extra"        : "hyaene_extra_01.wav",
   "kick_player"  : "hyaene_kick_player_01.wav",
@@ -31,6 +31,6 @@
   "sent"         : "hyaene_sent_01.wav",
   "team_losing"  : "hyaene_team_losing_01.wav",
   "team_winning" : "hyaene_team_winning_01.wav",
-  "help_sent"    : "hyaene_help_01.wav",
+  "help_sent"    : "hyaene_helpsent_01.wav",
   "will_attack"  : "hyaene_willattack_01.wav"
 }

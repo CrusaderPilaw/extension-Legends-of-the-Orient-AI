@@ -90,7 +90,7 @@
     "SellResource15": "None",
     "DefWallPatrolRallyTime": 3,
     "DefWallPatrolGroups": 4,
-    "DefSiegeEngineGoldThreshold": 100,
+    "DefSiegeEngineGoldThreshold": 50,
     "DefSiegeEngineBuildDelay": 30,
     "Unknown072": 100,
     "Unknown073": 20,

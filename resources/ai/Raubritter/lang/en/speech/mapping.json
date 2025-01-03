@@ -31,6 +31,6 @@
   "sent"         : "raubritter_sent_01.wav",
   "team_losing"  : "raubritter_team_losing_01.wav",
   "team_winning" : "raubritter_team_winning_01.wav",
-  "help_sent"    : "raubritter_help_01.wav",
+  "help_sent"    : "raubritter_helpsent_01.wav",
   "will_attack"  : "raubritter_willattack_01.wav"
 }

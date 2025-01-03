@@ -3,9 +3,9 @@
   "description": "Die Skorpion KI aus Crusader Pilaws 'Legenden des Orients' Paketes.",
   "author": "Crusader Pilaw",
   "link": "https://github.com/CrusaderPilaw/Legends-Of-The-Orient",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "defaultLang": "de",
-  "supportedLang": ["de","en"],
+  "supportedLang": ["de", "en"],
   "switched": {
     "binks": true,
     "speech": true,

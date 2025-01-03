@@ -3,7 +3,7 @@
   "description": "Die Bär KI aus Crusader Pilaws 'Legenden des Orients' Paketes.",
   "author": "Crusader Pilaw",
   "link": "https://github.com/CrusaderPilaw/Legenden-des-Ostens",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "defaultLang": "de",
   "supportedLang": ["de", "en"],
   "switched": {

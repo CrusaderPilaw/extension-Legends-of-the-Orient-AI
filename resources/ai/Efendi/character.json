@@ -72,7 +72,7 @@
     "MaxEquipment": 38,
     "MaxBeer": 0,
     "MaxResourceVariance": 2,
-    "RecruitGoldThreshold": 120,
+    "RecruitGoldThreshold": 60,
     "BlacksmithSetting": "Maces",
     "FletcherSetting": "Both",
     "PoleturnerSetting": "Spears",
@@ -185,12 +185,19 @@
     "AttUnitSiegeDef": "None",
     "AttUnitSiegeDefMax": 0,
     "AttUnitSiegeDefGroupsCount": 0,
-    "AttUnitMain1": "Slinger",
-    "AttUnitMain2": "ArabSwordsman",
-    "AttUnitMain3": "Slinger",
-    "AttUnitMain4": "ArabSwordsman",
+    "AttUnitMain1": "ArabSwordsman",
+    "AttUnitMain2": "Slinger",
+    "AttUnitMain3": "ArabSwordsman",
+    "AttUnitMain4": "Spearman",
     "AttMaxDefault": 150,
     "AttMainGroupsCount": 2,
-    "TargetChoice": "Balanced"
+    "TargetChoice": "Balanced",
+    "AIOxTethers_DisableInitialOxTether"    : 1,
+      "AIOxTethers_Logic"                     : 1,
+      "AIOxTethers_MaxOxTethers"              : 12,
+      "AIOxTethers_DynamicMaxOxTethers"       : 12,
+      "AIOxTethers_MinimumOxTethersPerQuarry" : 2,
+      "AIOxTethers_MaximumOxTethersPerQuarry" : 4,
+      "AIOxTethers_ThresholdStoneLoad"        : 10
   }
 }

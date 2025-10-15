@@ -188,6 +188,13 @@
     "AttUnitMain4": "Assassin",
     "AttMaxDefault": 400,
     "AttMainGroupsCount": 2,
-    "TargetChoice": "Closest"
+    "TargetChoice": "Closest",
+    "AIOxTethers_DisableInitialOxTether"    : 1,
+      "AIOxTethers_Logic"                     : 1,
+      "AIOxTethers_MaxOxTethers"              : 12,
+      "AIOxTethers_DynamicMaxOxTethers"       : 12,
+      "AIOxTethers_MinimumOxTethersPerQuarry" : 2,
+      "AIOxTethers_MaximumOxTethersPerQuarry" : 4,
+      "AIOxTethers_ThresholdStoneLoad"        : 8
   }
 }

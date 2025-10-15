@@ -69,7 +69,7 @@
     "MaxEquipment": 11,
     "MaxBeer": 0,
     "MaxResourceVariance": 2,
-    "RecruitGoldThreshold": 150,
+    "RecruitGoldThreshold": 0,
     "BlacksmithSetting": "Swords",
     "FletcherSetting": "Bows",
     "PoleturnerSetting": "Spears",
@@ -77,7 +77,7 @@
     "SellResource02": "Wheat",
     "SellResource03": "Beer",
     "SellResource04": "Flour",
-    "SellResource05": "Spears",
+    "SellResource05": "None",
     "SellResource06": "Pitch",
     "SellResource07": "Crossbows",
     "SellResource08": "LeatherArmors",
@@ -188,6 +188,13 @@
     "AttUnitMain4": "Spearman",
     "AttMaxDefault": 70,
     "AttMainGroupsCount": 2,
-    "TargetChoice": "Balanced"
+    "TargetChoice": "Balanced",
+    "AIOxTethers_DisableInitialOxTether"    : 1,
+      "AIOxTethers_Logic"                     : 1,
+      "AIOxTethers_MaxOxTethers"              : 6,
+      "AIOxTethers_DynamicMaxOxTethers"       : 6,
+      "AIOxTethers_MinimumOxTethersPerQuarry" : 2,
+      "AIOxTethers_MaximumOxTethersPerQuarry" : 6,
+      "AIOxTethers_ThresholdStoneLoad"        : 6
   }
 }

@@ -185,6 +185,13 @@
     "AttUnitMain4": "Swordsman",
     "AttMaxDefault": 100,
     "AttMainGroupsCount": 2,
-    "TargetChoice": "Player"
+    "TargetChoice": "Player",
+    "AIOxTethers_DisableInitialOxTether"    : 1,
+      "AIOxTethers_Logic"                     : 1,
+      "AIOxTethers_MaxOxTethers"              : 23,
+      "AIOxTethers_DynamicMaxOxTethers"       : 15,
+      "AIOxTethers_MinimumOxTethersPerQuarry" : 2,
+      "AIOxTethers_MaximumOxTethersPerQuarry" : 3,
+      "AIOxTethers_ThresholdStoneLoad"        : 6
   }
 }

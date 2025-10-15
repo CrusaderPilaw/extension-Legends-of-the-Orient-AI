@@ -191,6 +191,13 @@
     "AttUnitMain4": "Monk",
     "AttMaxDefault": 200,
     "AttMainGroupsCount": 3,
-    "TargetChoice": "Closest"
+    "TargetChoice": "Closest",
+    "AIOxTethers_DisableInitialOxTether"    : 1,
+      "AIOxTethers_Logic"                     : 1,
+      "AIOxTethers_MaxOxTethers"              : 12,
+      "AIOxTethers_DynamicMaxOxTethers"       : 12,
+      "AIOxTethers_MinimumOxTethersPerQuarry" : 2,
+      "AIOxTethers_MaximumOxTethersPerQuarry" : 5,
+      "AIOxTethers_ThresholdStoneLoad"        : 8
   }
 }

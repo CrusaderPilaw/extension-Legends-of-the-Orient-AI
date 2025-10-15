@@ -188,6 +188,13 @@
     "AttUnitMain4": "Pikeman",
     "AttMaxDefault": 200,
     "AttMainGroupsCount": 2,
-    "TargetChoice": "Closest"
+    "TargetChoice": "Closest",
+    "AIOxTethers_DisableInitialOxTether"    : 1,
+      "AIOxTethers_Logic"                     : 1,
+      "AIOxTethers_MaxOxTethers"              : 10,
+      "AIOxTethers_DynamicMaxOxTethers"       : 10,
+      "AIOxTethers_MinimumOxTethersPerQuarry" : 2,
+      "AIOxTethers_MaximumOxTethersPerQuarry" : 4,
+      "AIOxTethers_ThresholdStoneLoad"        : 4
   }
 }

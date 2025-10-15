@@ -191,6 +191,13 @@
     "AttUnitMain4": "Spearman",
     "AttMaxDefault": 20,
     "AttMainGroupsCount": 3,
-    "TargetChoice": "Balanced"
+    "TargetChoice": "Balanced",
+    "AIOxTethers_DisableInitialOxTether"    : 1,
+      "AIOxTethers_Logic"                     : 1,
+      "AIOxTethers_MaxOxTethers"              : 6,
+      "AIOxTethers_DynamicMaxOxTethers"       : 6,
+      "AIOxTethers_MinimumOxTethersPerQuarry" : 2,
+      "AIOxTethers_MaximumOxTethersPerQuarry" : 6,
+      "AIOxTethers_ThresholdStoneLoad"        : 7
   }
 }

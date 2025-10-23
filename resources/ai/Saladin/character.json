@@ -42,7 +42,7 @@
     "Farm8": "WheatFarm",
     "PopulationPerFarm": 2,
     "PopulationPerWoodcutter": 1,
-    "PopulationPerQuarry": 0,
+    "PopulationPerQuarry": 1,
     "PopulationPerIronmine": 14,
     "PopulationPerPitchrig": 20,
     "MaxQuarries": 3,

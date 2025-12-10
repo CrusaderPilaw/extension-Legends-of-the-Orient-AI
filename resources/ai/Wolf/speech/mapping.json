@@ -1,5 +1,10 @@
 {
   "taunt_1"      : "all_taunt_01.wav",
-  "victory_4"    : "all_vict_04.wav"
-
+  "anger_1"      : "wolf_anger_01.wav",
+  "anger_2"      : "wolf_anger_02.wav",
+  "nervous_1"    : "wolf_nervous_01.wav",
+  "victory_4"    : "all_vict_04.wav",
+  "no_attack_1"  : "wolf_noattack_01.wav",
+  "no_attack_2"  : "wolf_noattack_01.wav",
+  "help_sent"    : "wolf_helpsent_01.wav"
 }

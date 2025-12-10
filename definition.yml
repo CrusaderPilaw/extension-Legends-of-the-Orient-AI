@@ -1,7 +1,7 @@
 name: Legends-Of-The-Orient-AI
 display-name: Legends Of The Orient AI
 author: Crusader Pilaw
-version: 3.1.1
+version: 3.1.2
 dependencies:
   framework: ">=3.0.1"
   frontend: ">=1.0.2"

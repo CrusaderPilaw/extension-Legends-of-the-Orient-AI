@@ -1,8 +1,8 @@
 {
-  "taunt_1"      : "",
-  "taunt_2"      : "",
-  "taunt_3"      : "",
-  "taunt_4"      : "",
+  "taunt_1"      : "null.bik",
+  "taunt_2"      : "null.bik",
+  "taunt_3"      : "null.bik",
+  "taunt_4"      : "null.bik",
   "anger_1"      : "skorpion_angry.bik",
   "anger_2"      : "skorpion_nervous.bik",
   "plead"        : "skorpion_natural.bik",

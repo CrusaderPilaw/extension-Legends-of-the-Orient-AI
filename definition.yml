@@ -15,8 +15,3 @@ tags:
 - aiv
 family:
 - name: legends-of-the-orient
-capabilities:
-  files: true
-  code: false
-  configuration: false
-  options: false

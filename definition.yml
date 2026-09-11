@@ -1,7 +1,7 @@
 name: Legends-Of-The-Orient-AI
 display-name: Legends Of The Orient AI
 author: Crusader Pilaw
-version: 3.1.7
+version: 3.1.8
 dependencies:
   framework: ">=3.0.1"
   frontend: ">=1.0.2"
@@ -9,3 +9,9 @@ dependencies:
 type: plugin
 meta:
   version: 1.0.0
+tags:
+- ai
+- aic
+- aiv
+family:
+- name: legends-of-the-orient
